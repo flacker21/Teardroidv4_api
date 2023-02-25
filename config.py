@@ -1,1 +1,1 @@
-USER_AGENT = "Antivirus has installed"
+USER_AGENT = "done"
